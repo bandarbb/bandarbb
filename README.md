@@ -1,7 +1,7 @@
 <h1>Hi, I'm Bandar!</h1>
 
 <h2>Cybersecurity Write Ups:</h2>
- -<href="https://github.com/bandarbb/Tempest/tree/main">Tempest Challenge (TryHackMe SOC Level 1 Capstone)</href>
+ - <href="https://github.com/bandarbb/Tempest/tree/main">Tempest Challenge (TryHackMe SOC Level 1 Capstone)</href>
 
 <!---
 
